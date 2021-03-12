@@ -1,7 +1,7 @@
 Hi, I'm JordanViknar.
 So yeah, I used to many funny YouTube videos, and now I'm doing scripts essentially for Roblox.
 
-Much of the stuff I've isn't hosted on GitHub, but eh, I'll try to put more of it here I suppose.
+Much of the stuff I've done isn't hosted on GitHub, but eh, I'll try to put more of it here I suppose.
 
 Anyways, if you're really that curious, I know Lua (obviously), Python, and JavaScript.
 
