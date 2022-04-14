@@ -19,7 +19,7 @@ Anyways, I went away from the Roblox scene : no longer my taste for my age, and 
 
 As of right now, my currently active projects (private and public) are :
 - JordBOT Nitro (will be released under MPL 2.0 once enough of it is done)
-- [Noiseclapper](https://github.com/JordanViknar/Noiseclapper)
+- [Noiseclapper](https://github.com/JordanViknar/Noiseclapper) (work is also in progress for a native port of Noiseclapper)
 - JordBOT Classic (will be archived privately once JordBOT Nitro is released)
 
 ## How to reach me 📱
