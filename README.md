@@ -7,7 +7,7 @@ Grab some coffee ☕ if you want, take a seat 🪑, make yourself comfortable, w
 ## Known Languages ⌨️
 - 🐍 Python
 - 🔵 Lua
-- 🟨 JavaScript *(NodeJS 🟩 only)*
+- 🟨 JavaScript
 - 🔵 C
 - ⬛ Bash *(limited)*
 
