@@ -39,6 +39,7 @@ Grab some coffee ☕ if you want, take a seat 🪑, make yourself comfortable, w
 
 As of right now, my currently active projects (private and public) are :
 - [Noiseclapper](https://github.com/JordanViknar/Noiseclapper-GNOME) (GNOME support for Soundcore Life headphones)
+- [StompMyFiles](https://github.com/JordanViknar/StompMyFiles) (Universal file compression utility, aiming for brute strength (at the cost of time) and ease of use.)
 
 ## How to reach me 📱
 
