@@ -6,7 +6,7 @@ Grab some coffee ☕ if you want, take a seat 🪑, make yourself comfortable, w
 
 # GitHub stats
 
-![JordanViknar's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordanViknar&theme=transparent&show_icons=true)]
+![JordanViknar's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordanViknar&theme=transparent&show_icons=true&hide_rank=true&hide=contribs)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordanViknar&langs_count=20&layout=pie)] -->
 
 ## Technologies used ⌨️
