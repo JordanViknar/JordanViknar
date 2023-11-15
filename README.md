@@ -41,7 +41,7 @@ Grab some coffee ☕ if you want, take a seat 🪑, make yourself comfortable, w
 - Discord bots *(source code private)*
 - Websites : [engagement-jeunes](https://github.com/Iltotore/engagement-jeunes)
 ### Favorite license
-[![MPL-2.0 license](https://img.shields.io/badge/License-MPL-orange.svg)](https://choosealicense.com/licenses/mpl-2.0/)
+[![MPL-2.0 license](https://img.shields.io/badge/License-MPL%2F2.0-orange.svg)](https://choosealicense.com/licenses/mpl-2.0/)
 
 For open-source projects, I usually prefer the Mozilla Public License 2.0 because I consider it allows for my work to always be respected, without unfairly restraining the work of others.
 
