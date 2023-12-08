@@ -50,7 +50,7 @@ For open-source projects, I usually prefer the Mozilla Public License 2.0 becaus
 As of right now, my currently active projects are :
 
 [![Noiseclapper Card](https://github-readme-stats.vercel.app/api/pin/?username=JordanViknar&repo=Noiseclapper&theme=transparent&show_owner=true)](https://github.com/JordanViknar/Noiseclapper-GNOME)
-[![StompMyFiles Card](https://github-readme-stats.vercel.app/api/pin/?username=JordanViknar&repo=StompMyFiles&theme=transparent&show_owner=true)](https://github.com/JordanViknar/StompMyFiles)
+[![SimpleSteamTinker Card](https://github-readme-stats.vercel.app/api/pin/?username=JordanViknar&repo=SimpleSteamTinker&theme=transparent&show_owner=true)](https://github.com/JordanViknar/SimpleSteamTinker)
 
 ## How to reach me 📱
 
