@@ -35,7 +35,7 @@ Grab some coffee ☕ if you want, take a seat 🪑, make yourself comfortable, w
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ### Used for
-- Graphical programs (with GTK, Tkinter) : [Noiseclapper](https://github.com/JordanViknar/Noiseclapper-GNOME), [VirtuVirus](https://github.com/VirtuVirus/VirtuVirus)
+- Graphical programs (with GTK, Tkinter) : [SimpleSteamTinker](https://github.com/JordanViknar/SimpleSteamTinker), [Noiseclapper](https://github.com/JordanViknar/Noiseclapper-GNOME), [VirtuVirus](https://github.com/VirtuVirus/VirtuVirus)
 - Terminal programs (mostly school projects) : [StompMyFiles](https://github.com/JordanViknar/StompMyFiles), [CLY-Weather](https://github.com/CLY-Meteo/CLY-Weather), [MineCYper](https://github.com/MineCYper-Team/MineCYper), [Pythion](https://github.com/JordanViknar/PythionArchive)
 - GNOME Shell Extensions : [Noiseclapper](https://github.com/JordanViknar/Noiseclapper-GNOME)
 - Discord bots *(source code private)*
