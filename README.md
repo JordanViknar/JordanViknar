@@ -1,13 +1,19 @@
+<img alt="Cool Wave Effect" src="./wave.svg"><br>
+
 ## Welcome to my programming home. 👋😄
+___
 <div align="center">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=JordanViknar&show_icons=true&theme=gruvbox"><br><br>
 
   ### I'm JordanViknar, a student from France with a love for all things computing.
 </div>
 
-___
-## A quick summary of what I do :
+<br>
 <div align="center">
+
+  ## Quick summary of what I do :
+  <br>
   <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
   <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><br>
