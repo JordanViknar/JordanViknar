@@ -1,3 +1,5 @@
+<img alt="Cool Wave Effect" src="./wave.svg"><br><br>
+
 ## Welcome to my programming home. 👋😄
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JordanViknar&show_icons=true&theme=gruvbox"><br><br>
