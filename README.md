@@ -19,7 +19,7 @@ ___
     <img alt="space" src="https://go-skill-icons.vercel.app/api/icons?i=nothing,nothing&titles=true"> <!-- I was in a hurry. -->
     <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=rust,lua,python,ts,js,php,c,java,luau&perline=3&titles=true">
     <img alt="space" src="https://go-skill-icons.vercel.app/api/icons?i=nothing,nothing&titles=true"> <!-- I was in a hurry. -->
-    <img alt="Tools" src="https://go-skill-icons.vercel.app/api/icons?i=arch,linux,vscode,githubactions,gnome,gtk&perline=3&titles=true">
+    <img alt="Tools" src="https://go-skill-icons.vercel.app/api/icons?i=arch,linux,vscode,githubactions,gnome,gtk,docker&perline=3&titles=true">
   </div>
   
   <br><br>
