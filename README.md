@@ -1,26 +1,56 @@
-<img alt="Cool Wave Effect" src="./wave.svg"><br>
+> [!WARNING]
+> If you're viewing this page from GitHub, due to both :
+> - Various concerns about GitHub as a company.
+> - Wanting to keep my GitHub profile clutter-free.
+> 
+> **All my personal projects not intended for public contributions have been moved to my personal Forgejo instance.**
+>
+> You can view them in the following [organizations](https://git.the-plexus.net/explore/organizations).
+>
+> *(Projects with or intended for contributions from other people will not be removed from GitHub.)*
 
-## Welcome to my programming home. 👋😄
-___
+
+---
+## :wave: Welcome to my programming home !
+
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=JordanViknar&show_icons=true&theme=gruvbox"><br><br>
+  
+  [![JordanViknar's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=JordanViknar&show_icons=true&theme=gruvbox)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-  ### I'm JordanViknar, a student from France with a love for all things computing.
+  ### I'm JordanViknar, a software engineering student from France with a love for all things computing.
+
 </div>
 
-___
+---
 <div align="center">
 
   ### Here's what I use :
   
-  <div>
-    <img alt="Syntax" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,scss,md,bash&perline=3&titles=true">
-    <img alt="space" src="https://go-skill-icons.vercel.app/api/icons?i=nothing,nothing&titles=true"> <!-- I was in a hurry. -->
-    <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=rust,lua,python,ts,js,php,c,java,luau&perline=3&titles=true">
-    <img alt="space" src="https://go-skill-icons.vercel.app/api/icons?i=nothing,nothing&titles=true"> <!-- I was in a hurry. -->
-    <img alt="Tools" src="https://go-skill-icons.vercel.app/api/icons?i=arch,linux,vscode,githubactions,gnome,gtk,docker&perline=3&titles=true">
-  </div>
+  <table align="center">
+    <tr>
+      <td valign="top">
+        <img alt="Syntax" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,scss,md,bash&perline=3&titles=true">
+      </td>
+      <td valign="top">
+        <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=rust,python,java,ts,js,php,c,cpp,cs,kotlin,scala,lua,luau&perline=4&titles=true">
+      </td>
+      <td valign="top">
+        <img alt="Tools" src="https://go-skill-icons.vercel.app/api/icons?i=arch,linux,vscode,git,githubactions,docker,spring,gtk,qt,arduino&perline=4&titles=true">
+      </td>
+    </tr>
+  </table>
+
+  ### Curious about my projects ?
+
+  You can find them at :
+
+  | Description | Links |
+  | --- | --- |
+  | Personal projects intended for public contributions | - [My GitHub repositories](https://github.com/JordanViknar?tab=repositories) <br> - [Mirror](https://git.the-plexus.net/JordanViknar?tab=repositories) |
+  | Group Projects | - [Forgejo](https://git.the-plexus.net/JV-Group-Projects) |
+  | Solo CY Tech projects | - [Forgejo](https://git.the-plexus.net/JV-Solo-CYTech-Projects) |
+  | Legacy projects (if you're curious) | - [Forgejo](https://git.the-plexus.net/JV-Legacy-Projects) | 
   
   <br><br>
   <i>And can you believe it's (almost) always under the [MPL-2.0 Public License](https://choosealicense.com/licenses/mpl-2.0/) ?<br>That means you can freely use my work without impacting yours, as long as you keep it under the same license (or GPL-3.0).<i>
