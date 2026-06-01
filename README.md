@@ -52,6 +52,7 @@
   | Solo CY Tech projects | - [Forgejo](https://git.the-plexus.net/JV-Solo-CYTech-Projects) |
   | Legacy projects (if you're curious) | - [Forgejo](https://git.the-plexus.net/JV-Legacy-Projects) | 
   
-  <br><br>
-  <i>And can you believe it's (almost) always under the [MPL-2.0 Public License](https://choosealicense.com/licenses/mpl-2.0/) ?<br>That means you can freely use my work without impacting yours, as long as you keep it under the same license (or GPL-3.0).<i>
+  <br>
+  
+  And can you believe they're (almost) always under the [MPL-2.0 Public License](https://choosealicense.com/licenses/mpl-2.0/) ?<br><br><i>That means you can freely use my work without impacting yours, as long as you preserve my code as open-source.<i>
 </div>
