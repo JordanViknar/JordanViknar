@@ -60,7 +60,7 @@
 
   ## Current project
 
-  ### Mainline Linux port for the NVIDIA SHIELD Tablet
+  ### [Mainline Linux port for the NVIDIA SHIELD Tablet](https://github.com/JordanViknar/linux-tn8/tree/tn8-experimental)
 
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/89d84102-6b54-41fa-ae52-8dfe73632002" />
 
