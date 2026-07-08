@@ -70,8 +70,6 @@ Released in 2014, the NVIDIA SHIELD Tablet is still a particularly interesting d
 
 Linux has been running on it for years through an unofficial Linux4Tegra port, but those setups depend on an outdated kernel and proprietary drivers. I am working toward proper mainline Linux support for the device.
 
-At the moment, I already have basic kernel startup, internal storage, and tegradrm working.
-
 ---
 
 <!-- MPL 2.0 COMMENT -->
