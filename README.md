@@ -3,7 +3,7 @@
 > - Various concerns about GitHub as a company.
 > - Wanting to keep my GitHub profile clutter-free.
 > 
-> **All my personal projects not intended for public contributions have been moved to my personal Forgejo instance.**
+> **All my open-source projects not intended for public contributions have been moved to my personal Forgejo instance.**
 >
 > You can view them in the following [organizations](https://git.the-plexus.net/explore/organizations).
 >
@@ -60,9 +60,11 @@
 
   ## Current project
 
-  ### [Mainline Linux port for the NVIDIA SHIELD Tablet](https://github.com/JordanViknar/linux-tn8/tree/tn8-experimental)
+  ### [Mainline Linux port for the NVIDIA SHIELD Tablet](https://github.com/JordanViknar/linux-tn8/tree/tn8)
 
-  <img width="400" alt="image" src="https://github.com/user-attachments/assets/89d84102-6b54-41fa-ae52-8dfe73632002" />
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/0f72c566-57c3-47cd-b887-81bcde9becbb" />
+
+  <i>Note : This port is not officially part of postmarketOS... yet. Additionally, GNOME Console here has been started with `GSK_RENDERER=cairo`.</i>
 
 </div>
 
